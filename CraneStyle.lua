@@ -1,0 +1,17 @@
+﻿game.ReplicatedStorage.Styles.Brawler.VisualName.Value = "Crane"
+game.ReplicatedStorage.Styles.Brawler.Color.Value = Color3.fromRGB(0, 190, 255)
+
+game.ReplicatedStorage.Styles.Brawler.Rush1.Value = "BEvadeStrikeLeft"
+game.ReplicatedStorage.Styles.Brawler.Rush2.Value = "BEvadeStrikeRight"
+game.ReplicatedStorage.Styles.Brawler.Rush3.Value = "RDashAttack"
+game.ReplicatedStorage.Styles.Brawler.Rush4.Value = "P_SAttack3"
+game.ReplicatedStorage.Styles.Brawler.Strike1.Value = "RSweep"
+game.ReplicatedStorage.Styles.Brawler.Strike2.Value = "BEvadeStrikeBack"
+game.ReplicatedStorage.Styles.Brawler.Strike3.Value = "P_SAttack3"
+game.ReplicatedStorage.Styles.Brawler.Strike4.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Brawler.Strike5.Value = "RStrike9"
+game.ReplicatedStorage.Styles.Brawler.Grab.Value = "RSweep"
+game.ReplicatedStorage.Styles.Brawler.GrabStrike.Value = "T_CounterQuickstep"
+game.ReplicatedStorage.Styles.Brawler.Taunt.Value = "RushTaunt"
+game.ReplicatedStorage.Styles.Brawler.Taunt.AnimationId.Value = "rbxassetid://9313515166"
+game.ReplicatedStorage.Styles.Brawler.DashAttack.Value = "RDashAttack"

@@ -1,0 +1,17 @@
+﻿game.ReplicatedStorage.Styles.Brawler.VisualName.Value = "Custom"
+game.ReplicatedStorage.Styles.Brawler.Color.Value = Color3.fromRGB(0, 100, 255)
+
+game.ReplicatedStorage.Styles.Brawler.Rush1.Value = "龍Attack1"
+game.ReplicatedStorage.Styles.Brawler.Rush2.Value = "龍Attack3"
+game.ReplicatedStorage.Styles.Brawler.Rush3.Value = "P_SAttack1"
+game.ReplicatedStorage.Styles.Brawler.Rush4.Value = "P_SAttack3"
+game.ReplicatedStorage.Styles.Brawler.Strike1.Value = "RDashAttack"
+game.ReplicatedStorage.Styles.Brawler.Strike2.Value = "P_SAttack3"
+game.ReplicatedStorage.Styles.Brawler.Strike3.Value = "B2Strike3"
+game.ReplicatedStorage.Styles.Brawler.Strike4.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Brawler.Strike5.Value = "RStrike9"
+game.ReplicatedStorage.Styles.Brawler.Grab.Value = "GGrab"
+game.ReplicatedStorage.Styles.Brawler.GrabStrike.Value = "T_CounterQuickstep"
+game.ReplicatedStorage.Styles.Brawler.Taunt.Value = "RushTaunt"
+game.ReplicatedStorage.Styles.Brawler.DashAttack.Value = "RDashAttack"
+game.ReplicatedStorage.Styles.Brawler.BlockStrike.Value = "TigerDrop"

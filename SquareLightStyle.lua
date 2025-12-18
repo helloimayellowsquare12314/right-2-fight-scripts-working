@@ -1,0 +1,25 @@
+﻿game.ReplicatedStorage.Styles.Rush.VisualName.Value = "Square"
+game.ReplicatedStorage.Styles.Rush.Color.Value = Color3.fromRGB(10, 255, 10)
+
+game.ReplicatedStorage.Styles.Rush.Rush1.Value = "龍Attack1"
+game.ReplicatedStorage.Styles.Rush.Rush2.Value = "龍Attack2"
+game.ReplicatedStorage.Styles.Rush.Rush3.Value = "龍Attack3"
+game.ReplicatedStorage.Styles.Rush.Rush4.Value = "龍Attack4"
+game.ReplicatedStorage.Styles.Rush.Rush5.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Rush.Rush6.Value = "龍Strike5"
+game.ReplicatedStorage.Styles.Rush.Rush7.Value = "RDashAttack"
+game.ReplicatedStorage.Styles.Rush.Rush8.Value = "TigerDrop"
+
+game.ReplicatedStorage.Styles.Rush.Strike1.Value = "BStrike1"
+game.ReplicatedStorage.Styles.Rush.Strike2.Value = "TigerDrop"
+game.ReplicatedStorage.Styles.Rush.Strike3.Value = "龍2Strike1"
+game.ReplicatedStorage.Styles.Rush.Strike4.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Rush.Strike5.Value = "TigerDrop"
+game.ReplicatedStorage.Styles.Rush.Strike6.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Rush.Strike7.Value = "B2Strike4"
+game.ReplicatedStorage.Styles.Rush.Strike8.Value = "B2Strike3"
+game.ReplicatedStorage.Styles.Rush.Strike9.Value = "龍2Strike4"
+
+game.ReplicatedStorage.Styles.Rush.Grab.Value = "RSweep"
+game.ReplicatedStorage.Styles.Rush.Taunt.Value = "DragonTaunt"
+game.ReplicatedStorage.Styles.Rush.DashAttack.Value = "DashAttack"
