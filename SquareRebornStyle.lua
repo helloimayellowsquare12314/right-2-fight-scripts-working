@@ -1,0 +1,26 @@
+﻿game.ReplicatedStorage.Styles.Rush.VisualName.Value = "Square Reborn"
+game.ReplicatedStorage.Styles.Rush.Color.Value = Color3.fromRGB(155, 255, 155)
+game.ReplicatedStorage.Styles.Rush.Rush1.Value = "龍Attack1"
+game.ReplicatedStorage.Styles.Rush.Rush2.Value = "龍Attack4"
+game.ReplicatedStorage.Styles.Rush.Rush3.Value = "P_SAttack1"
+game.ReplicatedStorage.Styles.Rush.Rush4.Value = "P_SAttack3"
+game.ReplicatedStorage.Styles.Rush.Rush5.Value = "龍Attack1"
+game.ReplicatedStorage.Styles.Rush.Rush6.Value = "龍Attack2"
+game.ReplicatedStorage.Styles.Rush.Rush7.Value = "龍Attack3"
+game.ReplicatedStorage.Styles.Rush.Rush8.Value = "龍Attack4"
+
+game.ReplicatedStorage.Styles.Rush.Strike1.Value = "TigerDrop"
+game.ReplicatedStorage.Styles.Rush.Strike2.Value = "TigerDrop"
+game.ReplicatedStorage.Styles.Rush.Strike3.Value = "BTStrike4"
+game.ReplicatedStorage.Styles.Rush.Strike4.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Rush.Strike5.Value = "P_SAttack1"
+game.ReplicatedStorage.Styles.Rush.Strike6.Value = "龍2Strike4"
+game.ReplicatedStorage.Styles.Rush.Strike7.Value = "B2Strike1"
+game.ReplicatedStorage.Styles.Rush.Strike8.Value = "B2Strike3"
+game.ReplicatedStorage.Styles.Rush.Strike9.Value = "RDashAttack"
+
+game.ReplicatedStorage.Styles.Rush.Grab.Value = "RSweep"
+game.ReplicatedStorage.Styles.Rush.Taunt.Value = "DragonTaunt"
+game.ReplicatedStorage.Styles.Rush.DashAttack.Value = "DashAttack"
+
+menu.Abilities.Frame.Frame.Frame.List.ListFrame["Time for Godspeed"].Generic.Label.Text = "Green Square Spirit"
