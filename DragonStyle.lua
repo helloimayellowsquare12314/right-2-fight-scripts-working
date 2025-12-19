@@ -426,7 +426,7 @@ v = game.ReplicatedStorage.Styles.Rush["Strike1"]
 else
 v = Instance.new("StringValue", game.ReplicatedStorage.Styles.Rush)
 end
-v.Value = '龍TigerDrop'
+v.Value = 'TigerDrop'
 v.Name = "Strike1"
 if game.ReplicatedStorage.Styles.Rush:FindFirstChild("H_Running4") then
 v = game.ReplicatedStorage.Styles.Rush["H_Running4"]
@@ -626,4 +626,5 @@ end
 
 v.AnimationId = "rbxassetid://13731641248"
 v.Name = "Run"
+
 
